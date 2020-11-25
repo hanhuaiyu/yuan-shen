@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collection
+  - Enemies
+  - DeadLine
+  - Spike2
+  - Enemy
+  - Case
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2861404477
+    locked: 0
+  - name: NoneGround
+    uniqueID: 1350033187
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 3712310905
+    locked: 0
+  - name: Ground
+    uniqueID: 2137316249
+    locked: 0
+  - name: FrontGround
+    uniqueID: 237184639
+    locked: 0
+  - name: Player
+    uniqueID: 3922265375
+    locked: 0
+  - name: Front
+    uniqueID: 826073595
+    locked: 0
